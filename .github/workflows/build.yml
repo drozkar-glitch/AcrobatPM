@@ -270,4 +270,4 @@ jobs:
         with:
           name: ${{ env.APP_NAME }}-Windows-EXE
           path: out_exe/*.exe
-# Sync: 2026-11-17T01:06:27.024Z
+# Sync: 2026-11-17T19:05:43.790Z
